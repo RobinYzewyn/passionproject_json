@@ -25,7 +25,7 @@
           "type": "property",
           "details": {
             "property_id": 2,
-            "name": "Push-up",
+            "name": "Preacher curl",
             "price": 60,
             "rental_price": 30
           }
@@ -35,7 +35,7 @@
           "type": "property",
           "details": {
             "property_id": 3,
-            "name": "Lat pulldown",
+            "name": "Push-up",
             "price": 100,
             "rental_price": 70
           }
@@ -64,7 +64,7 @@
           "type": "property",
           "details": {
             "property_id": 4,
-            "name": "Cable row",
+            "name": "Landmine row",
             "price": 100,
             "rental_price": 70
           }
@@ -88,7 +88,7 @@
           "type": "property",
           "details": {
             "property_id": 6,
-            "name": "Skullcrusher",
+            "name": "Benchpress",
             "price": 140,
             "rental_price": 105
           }
@@ -98,7 +98,7 @@
           "type": "property",
           "details": {
             "property_id": 7,
-            "name": "Tricep pushdown",
+            "name": "Squat",
             "price": 140,
             "rental_price": 105
           }
@@ -112,7 +112,7 @@
           "type": "property",
           "details": {
             "property_id": 8,
-            "name": "Dips",
+            "name": "Deadlift",
             "price": 160,
             "rental_price": 120
           }
@@ -203,7 +203,7 @@
           "type": "property",
           "details": {
             "property_id": 14,
-            "name": "Squat",
+            "name": "Cable flyes",
             "price": 240,
             "rental_price": 160
           }
@@ -213,7 +213,7 @@
           "type": "property",
           "details": {
             "property_id": 15,
-            "name": "Leg curl",
+            "name": "Cable kickback",
             "price": 260,
             "rental_price": 170
           }
@@ -227,7 +227,7 @@
           "type": "property",
           "details": {
             "property_id": 16,
-            "name": "Hip thrust",
+            "name": "Rope pulldown",
             "price": 260,
             "rental_price": 170
           }
@@ -237,7 +237,7 @@
         "Player0": {
           "number": 0,
           "money": 1500,
-          "color": "blue",
+          "color": "red",
           "throw": true,
           "property": [],
           "in_jail": false,
@@ -255,7 +255,7 @@
         "Player2": {
           "number": 2,
           "money": 1500,
-          "color": "blue",
+          "color": "green",
           "throw": false,
           "property": [],
           "in_jail": false,
@@ -264,7 +264,7 @@
         "Player3": {
           "number": 3,
           "money": 1500,
-          "color": "blue",
+          "color": "yellow",
           "throw": false,
           "property": [],
           "in_jail": false,
